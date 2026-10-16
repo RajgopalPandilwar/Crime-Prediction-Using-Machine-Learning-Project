@@ -31,8 +31,6 @@ This project demonstrates how machine learning techniques can be applied to pred
 
 ## Credits
 
-> **Based on original work by Vatshayan.**  
-> Original repository: [Vatshayan/Crime-Prediction-Using-Machine-Learning-Project](https://github.com/Vatshayan/Crime-Prediction-Using-Machine-Learning-Project)  
 > YouTube explanation: https://youtu.be/4rAoiBh2MH0
 
 ---
