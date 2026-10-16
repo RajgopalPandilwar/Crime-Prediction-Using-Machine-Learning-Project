@@ -35,4 +35,3 @@ This project demonstrates how machine learning techniques can be applied to pred
 
 ---
 
-*This project has been customized and maintained by Rajgopal Pandilwar.*
